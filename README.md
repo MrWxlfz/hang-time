@@ -1,8 +1,6 @@
 # Hang Time
 
-Luke Nordin's **Boba Drop demo** about paper airplanes. Pick two designs, throw each three times, and compare how far they go.
-
-Just HTML and CSS. No packages, JavaScript, or build step.
+**Boba Drop demo** about paper airplanes (little hobby of mine). Pick two designs, throw each three times, and compare how far they go.
 
 ## What's here
 
@@ -23,10 +21,8 @@ In **Settings → Pages**, choose **Deploy from a branch**, then **main** and **
 
 ## A few things to try
 
-Take your own plane photo, add your actual results, or test a third design. Change one thing between tests so you know what affected the flight.
+Take your own plane photo, add your actual results, or test a third design. Change one thing between tests so you know what affected the flight!
 
 ## Credits
 
 Photo by Andrey Larin, CC0. Folding guides by Fold ’N Fly. Full links are in [CREDITS.md](CREDITS.md).
-
-This demo was built with AI assistance. It is a learning example, not an eligible entry under Boba Drops' [no-AI rule](https://boba.hackclub.com/requirements.html).
